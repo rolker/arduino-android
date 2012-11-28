@@ -1,0 +1,9 @@
+[submodule "arduino/arduino-cmake"]
+	path = arduino/arduino-cmake
+	url = git://github.com/rolker/arduino-cmake.git
+[submodule "arduino/src/MotorShield"]
+	path = arduino/src/MotorShield
+	url = git://github.com/rolker/MotorShield.git
+[submodule "arduino/src/SR04"]
+	path = arduino/src/SR04
+	url = git://github.com/rolker/Arduino-ultrasonic-SR04-library.git
